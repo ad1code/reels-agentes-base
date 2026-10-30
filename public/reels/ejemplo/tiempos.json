@@ -1,0 +1,361 @@
+{
+ "audio": null,
+ "duracionMs": 19107,
+ "simulado": true,
+ "palabras": [
+  {
+   "text": "Esto",
+   "startMs": 300,
+   "endMs": 567,
+   "timestampMs": 434,
+   "confidence": null
+  },
+  {
+   "text": " es",
+   "startMs": 633,
+   "endMs": 767,
+   "timestampMs": 700,
+   "confidence": null
+  },
+  {
+   "text": " un",
+   "startMs": 833,
+   "endMs": 967,
+   "timestampMs": 900,
+   "confidence": null
+  },
+  {
+   "text": " reel",
+   "startMs": 1033,
+   "endMs": 1300,
+   "timestampMs": 1167,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 1367,
+   "endMs": 1500,
+   "timestampMs": 1434,
+   "confidence": null
+  },
+  {
+   "text": " ejemplo",
+   "startMs": 1567,
+   "endMs": 2033,
+   "timestampMs": 1800,
+   "confidence": null
+  },
+  {
+   "text": " para",
+   "startMs": 2100,
+   "endMs": 2367,
+   "timestampMs": 2234,
+   "confidence": null
+  },
+  {
+   "text": " probar",
+   "startMs": 2433,
+   "endMs": 2833,
+   "timestampMs": 2633,
+   "confidence": null
+  },
+  {
+   "text": " la",
+   "startMs": 2900,
+   "endMs": 3033,
+   "timestampMs": 2967,
+   "confidence": null
+  },
+  {
+   "text": " plantilla.",
+   "startMs": 3100,
+   "endMs": 4050,
+   "timestampMs": 3575,
+   "confidence": null
+  },
+  {
+   "text": " Cada",
+   "startMs": 4117,
+   "endMs": 4383,
+   "timestampMs": 4250,
+   "confidence": null
+  },
+  {
+   "text": " palabra",
+   "startMs": 4450,
+   "endMs": 4917,
+   "timestampMs": 4684,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 4983,
+   "endMs": 5117,
+   "timestampMs": 5050,
+   "confidence": null
+  },
+  {
+   "text": " enciende",
+   "startMs": 5183,
+   "endMs": 5717,
+   "timestampMs": 5450,
+   "confidence": null
+  },
+  {
+   "text": " cuando",
+   "startMs": 5783,
+   "endMs": 6183,
+   "timestampMs": 5983,
+   "confidence": null
+  },
+  {
+   "text": " suena,",
+   "startMs": 6250,
+   "endMs": 6763,
+   "timestampMs": 6507,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 6830,
+   "endMs": 7030,
+   "timestampMs": 6930,
+   "confidence": null
+  },
+  {
+   "text": " los",
+   "startMs": 7097,
+   "endMs": 7297,
+   "timestampMs": 7197,
+   "confidence": null
+  },
+  {
+   "text": " tiempos",
+   "startMs": 7363,
+   "endMs": 7830,
+   "timestampMs": 7597,
+   "confidence": null
+  },
+  {
+   "text": " que",
+   "startMs": 7897,
+   "endMs": 8097,
+   "timestampMs": 7997,
+   "confidence": null
+  },
+  {
+   "text": " devuelve",
+   "startMs": 8163,
+   "endMs": 8697,
+   "timestampMs": 8430,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 8763,
+   "endMs": 8897,
+   "timestampMs": 8830,
+   "confidence": null
+  },
+  {
+   "text": " proveedor",
+   "startMs": 8963,
+   "endMs": 9563,
+   "timestampMs": 9263,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 9630,
+   "endMs": 9763,
+   "timestampMs": 9697,
+   "confidence": null
+  },
+  {
+   "text": " voz.",
+   "startMs": 9830,
+   "endMs": 10380,
+   "timestampMs": 10105,
+   "confidence": null
+  },
+  {
+   "text": " Las",
+   "startMs": 10447,
+   "endMs": 10647,
+   "timestampMs": 10547,
+   "confidence": null
+  },
+  {
+   "text": " siglas",
+   "startMs": 10713,
+   "endMs": 11113,
+   "timestampMs": 10913,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 11180,
+   "endMs": 11313,
+   "timestampMs": 11247,
+   "confidence": null
+  },
+  {
+   "text": " escriben",
+   "startMs": 11380,
+   "endMs": 11913,
+   "timestampMs": 11647,
+   "confidence": null
+  },
+  {
+   "text": " como",
+   "startMs": 11980,
+   "endMs": 12247,
+   "timestampMs": 12114,
+   "confidence": null
+  },
+  {
+   "text": " se",
+   "startMs": 12313,
+   "endMs": 12447,
+   "timestampMs": 12380,
+   "confidence": null
+  },
+  {
+   "text": " dicen,",
+   "startMs": 12513,
+   "endMs": 13027,
+   "timestampMs": 12770,
+   "confidence": null
+  },
+  {
+   "text": " por",
+   "startMs": 13093,
+   "endMs": 13293,
+   "timestampMs": 13193,
+   "confidence": null
+  },
+  {
+   "text": " ejemplo,",
+   "startMs": 13360,
+   "endMs": 14007,
+   "timestampMs": 13684,
+   "confidence": null
+  },
+  {
+   "text": " ce",
+   "startMs": 14073,
+   "endMs": 14207,
+   "timestampMs": 14140,
+   "confidence": null
+  },
+  {
+   "text": " ese",
+   "startMs": 14273,
+   "endMs": 14473,
+   "timestampMs": 14373,
+   "confidence": null
+  },
+  {
+   "text": " uve.",
+   "startMs": 14540,
+   "endMs": 15090,
+   "timestampMs": 14815,
+   "confidence": null
+  },
+  {
+   "text": " El",
+   "startMs": 15157,
+   "endMs": 15290,
+   "timestampMs": 15224,
+   "confidence": null
+  },
+  {
+   "text": " texto",
+   "startMs": 15357,
+   "endMs": 15690,
+   "timestampMs": 15524,
+   "confidence": null
+  },
+  {
+   "text": " de",
+   "startMs": 15757,
+   "endMs": 15890,
+   "timestampMs": 15824,
+   "confidence": null
+  },
+  {
+   "text": " verdad",
+   "startMs": 15957,
+   "endMs": 16357,
+   "timestampMs": 16157,
+   "confidence": null
+  },
+  {
+   "text": " lo",
+   "startMs": 16423,
+   "endMs": 16557,
+   "timestampMs": 16490,
+   "confidence": null
+  },
+  {
+   "text": " escribe",
+   "startMs": 16623,
+   "endMs": 17090,
+   "timestampMs": 16857,
+   "confidence": null
+  },
+  {
+   "text": " el",
+   "startMs": 17157,
+   "endMs": 17290,
+   "timestampMs": 17224,
+   "confidence": null
+  },
+  {
+   "text": " copywriter",
+   "startMs": 17357,
+   "endMs": 18023,
+   "timestampMs": 17690,
+   "confidence": null
+  },
+  {
+   "text": " con",
+   "startMs": 18090,
+   "endMs": 18290,
+   "timestampMs": 18190,
+   "confidence": null
+  },
+  {
+   "text": " tu",
+   "startMs": 18357,
+   "endMs": 18490,
+   "timestampMs": 18424,
+   "confidence": null
+  },
+  {
+   "text": " voz.",
+   "startMs": 18557,
+   "endMs": 19107,
+   "timestampMs": 18832,
+   "confidence": null
+  }
+ ],
+ "escenas": [
+  {
+   "startMs": 300,
+   "endMs": 4050
+  },
+  {
+   "startMs": 4117,
+   "endMs": 10380
+  },
+  {
+   "startMs": 10447,
+   "endMs": 15090
+  },
+  {
+   "startMs": 15157,
+   "endMs": 19107
+  }
+ ]
+}

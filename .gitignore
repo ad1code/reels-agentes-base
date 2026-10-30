@@ -1,0 +1,9 @@
+node_modules/
+out/
+media/
+.subida/
+.env
+.env.*
+!.env.example
+.DS_Store
+.claude/settings.local.json

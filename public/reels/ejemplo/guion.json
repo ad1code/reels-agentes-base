@@ -1,0 +1,36 @@
+{
+  "slug": "ejemplo",
+  "titulo": "Reel de ejemplo de la plantilla",
+  "portada": "Tres pasos para empezar",
+  "idioma": "es",
+  "tema": "base",
+  "voces": {
+    "principal": { "id": "", "estabilidad": 0.5 }
+  },
+  "ritmo": { "tempo": 1, "escenaMs": null, "fraseMs": null, "comaMs": null, "dentroMs": null, "cabezaMs": null },
+  "escenas": [
+    {
+      "voz": "Esto es un reel de ejemplo para probar la plantilla.",
+      "pantalla": "Ejemplo",
+      "visual": "Fondo liso con el titular. Primer fotograma legible sin sonido."
+    },
+    {
+      "voz": "Cada palabra se enciende cuando suena, con los tiempos que devuelve el proveedor de voz.",
+      "pantalla": "Subtítulos",
+      "visual": "Subtítulos palabra a palabra en el centro."
+    },
+    {
+      "voz": "Las siglas se escriben como se dicen, por ejemplo, ce ese uve.",
+      "subtitulo": "Las siglas se escriben como se dicen: CSV.",
+      "pantalla": "Pronunciación",
+      "visual": "El subtítulo enseña la palabra real; la voz lee la forma pronunciable."
+    },
+    {
+      "voz": "El texto de verdad lo escribe el copywriter con tu voz.",
+      "pantalla": "Siguiente paso",
+      "visual": "Titular final. Sin despedida."
+    }
+  ],
+  "caption": "Texto de relleno del post. Lo escribe el copywriter y lo aprueba el humano.",
+  "hashtags": ["#ejemplo"]
+}
